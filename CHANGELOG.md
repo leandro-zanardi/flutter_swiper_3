@@ -1,4 +1,6 @@
+## [3.0.0] - [2022/08/10]
 
+ * Fix flutter 3
 ## [1.1.5] - [2019/03/10]
 
  * Fix findRenderObject is null
