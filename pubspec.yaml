@@ -1,7 +1,7 @@
-name: flutter_swiper_null_safety
+name: flutter_swiper_3
 description: The best swiper(carousel) for flutter, with multiple layouts, infinite loop. Compatible with Android & iOS.
-version: 1.0.2
-homepage: https://github.com/lianyagang/flutter_swiper_null_safety
+version: 3.0.0
+homepage: https://github.com/leandro-zanardi/flutter_swiper_3
 
 dependencies:
   flutter:

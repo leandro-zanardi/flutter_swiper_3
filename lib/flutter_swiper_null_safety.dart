@@ -1,4 +1,4 @@
-library flutter_swiper_null_safety;
+library flutter_swiper_3;
 
 export 'src/swiper.dart';
 export 'src/swiper_pagination.dart';
